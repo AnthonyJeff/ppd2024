@@ -1,17 +1,16 @@
-Apenas dois simples exemplos de servidores WebSocket usando [Ratchet](https://github.com/ratchetphp/Ratchet).
+Exemplo de um chat para o jogo usando WebSockets com a classe [Ratchet](https://github.com/ratchetphp/Ratchet).
 
-Primeiro instale as dependências:
+Instalando as dependencias
 
 ```bash
 $ composer install
 ```
 
-Inicie o servidor:
+Iniciando o servidor
 
 ```bash
 $ php chat.php
 ```
 
-E então abra o arquivo `chat.html`.
+Abrir o arquivo `chat.html` para testar apenas o chat no navegador ou simplesmente o index na raiz do jogo (abre junto com o game)
 
-Os mesmos passos podem ser usados para abrir o _EchoServer_ em `server.php`.
