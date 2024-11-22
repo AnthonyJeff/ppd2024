@@ -1,4 +1,4 @@
-Reversi
+Othellio Reversi - PPD IFCE 2024
 =======
 
-A PHP/Javascript implementation of the Reversi board game.
+Uma aplicação adaptada do game Othellio Reversi utilizando PHP e Javascript
